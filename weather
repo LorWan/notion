@@ -1,1 +1,4 @@
-<div id="id34e273d175040" a='{"t":"v","v":"1.2","lang":"de","locs":[1090],"ssot":"c","sics":"ms","cbkg":"#4CAF50","cfnt":"#FFFFFF","cprb":"#388E3C","cprf":"#FFFFFF","slfs":"22","slbr":1,"ent":"bool","eev":"bool","edy":"bool","emr":"bool"}'>Wetterdatenquelle: <a href="https://wetterlabs.de/wetter_leipzig/heute/">wetter Leipzig heute stündlich</a></div><script async src="https://static1.wetterlabs.de/widgetjs/?id=id34e273d175040"></script>
+<a class="weatherwidget-io" href="https://forecast7.com/de/51d3412d37/leipzig/" data-label_1="LEIPZIG" data-label_2="Wetter" data-font="Roboto" data-icons="Climacons Animated" data-days="3" data-theme="dark" data-basecolor="#2E9963" data-cloudfill="#2E9963" >LEIPZIG Wetter</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
